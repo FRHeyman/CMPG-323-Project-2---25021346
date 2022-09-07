@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rynoh\\Desktop\\CMPG 323 Project 2\\Project 2\\Project 2\\Project 2.csproj": {}
+    "C:\\Users\\rynoh\\source\\repos\\FRHeyman\\CMPG-323-Project-2---25021346\\CMPG 323 Project 2\\Project 2\\Project 2\\Project 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rynoh\\Desktop\\CMPG 323 Project 2\\Project 2\\Project 2\\Project 2.csproj": {
+    "C:\\Users\\rynoh\\source\\repos\\FRHeyman\\CMPG-323-Project-2---25021346\\CMPG 323 Project 2\\Project 2\\Project 2\\Project 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rynoh\\Desktop\\CMPG 323 Project 2\\Project 2\\Project 2\\Project 2.csproj",
+        "projectUniqueName": "C:\\Users\\rynoh\\source\\repos\\FRHeyman\\CMPG-323-Project-2---25021346\\CMPG 323 Project 2\\Project 2\\Project 2\\Project 2.csproj",
         "projectName": "Project 2",
-        "projectPath": "C:\\Users\\rynoh\\Desktop\\CMPG 323 Project 2\\Project 2\\Project 2\\Project 2.csproj",
+        "projectPath": "C:\\Users\\rynoh\\source\\repos\\FRHeyman\\CMPG-323-Project-2---25021346\\CMPG 323 Project 2\\Project 2\\Project 2\\Project 2.csproj",
         "packagesPath": "C:\\Users\\rynoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rynoh\\Desktop\\CMPG 323 Project 2\\Project 2\\Project 2\\obj\\",
+        "outputPath": "C:\\Users\\rynoh\\source\\repos\\FRHeyman\\CMPG-323-Project-2---25021346\\CMPG 323 Project 2\\Project 2\\Project 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rynoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
