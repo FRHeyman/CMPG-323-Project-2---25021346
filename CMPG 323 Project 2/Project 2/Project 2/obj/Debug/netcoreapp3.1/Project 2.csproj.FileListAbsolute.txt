@@ -1,0 +1,19 @@
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.exe
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.deps.json
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.runtimeconfig.json
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.runtimeconfig.dev.json
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.dll
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.pdb
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.csproj.AssemblyReference.cache
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.AssemblyInfoInputs.cache
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.AssemblyInfo.cs
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\staticwebassets\Project 2.StaticWebAssets.Manifest.cache
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.RazorTargetAssemblyInfo.cache
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.dll
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.pdb
+C:\Users\rynoh\Desktop\CMPG 323 Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.genruntimeconfig.cache
